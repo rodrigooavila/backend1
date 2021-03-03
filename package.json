@@ -1,0 +1,11 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "servidor web basico",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Avila",
+  "license": "ISC"
+}
